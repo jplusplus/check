@@ -1,3 +1,18 @@
+## <span id="dataregister">Central data repository</span>
+
+_what?_<br/>
+At the start of each project, all original data shall be collected in one place, together with a source note.
+
+_why?_<br>
+A central data repository reduces the risk of data being redefined along the way.
+
+_how?_
+ * Put (and write-protect) all data in one folder
+ * Add a text file to that folder, with a list of data files and sources
+ * Note if possible the number of rows (or relations, or similar, depending on data type) for each dataset
+ * Add all new data sets that are introduced in the project here
+
+
 ## Dissertation
 
 _what?_<br/>
@@ -14,21 +29,6 @@ The opponent shall:
  * Assess the conclusions
  * Make _several_ spot-checks
  * Proofread units, scales, number formats, etc.
-
-
-## <span id="dataregister">Central data repository</span>
-
-_what?_<br/>
-At the start of each project, all original data shall be collected in one place, together with a source note.
-
-_why?_<br>
-A central data repository reduces the risk of data being redefined along the way.
-
-_how?_
- * Put (and write-protect) all data in one folder
- * Add a text file to that folder, with a list of data files and sources
- * Note if possible the number of rows (or relations, or similar, depending on data type) for each dataset
- * Add all new data sets that are introduced in the project here
 
 
 ## Initial data sanity check
@@ -75,7 +75,7 @@ Coherent file formats reduces the risk of conversion errors and truncations.
 _how?_
  * CSV files for tabular data (comma as delimiter, quotation marks as string container)
  * XLSX files for tables with formulas
- * JSON hierarchical data
+ * JSON for hierarchical data
  * Shape files for geodata
  * Always UTF-8, everywhere. Always. Everywhere.
 
