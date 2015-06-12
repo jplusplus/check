@@ -60,7 +60,7 @@ Med versionshantering ser vi enklare om ett fel fått följdeffekter<br>
 _hur?_
  * Sträva efter att göra all databearbetning i kod.
  * Om databearbetning görs i kalkylprogram eller liknande, spara varje ny version under ett nytt namn. Varje datafil får en egen mapp, som döps efter originaldatafilen. Versionsfilerna namnges sedan enligt konventionen `YYMMDDxx - ändringsbeskrivning`. Till exempel: `sverigekarta/15060401 - Lade till postnummergränser.shp`
- * Eller versionshantera ännu hellre med Git + Github.
+ * Eller versionshantera ännu hellre med Git.
  * När vi samarbetar med andra, kan vi arbeta med en Dropbox-mapp, synkad till Github, eller testa någon av alla lösningar för att synka Google Docs med Github.
 
 
@@ -82,19 +82,20 @@ _hur?_
 
 ## Line-by-line för artiklar
 
-_hur?_<br>
+_hur?_
  * Den som inte själv varit aktiv i research leder line-by-line-läsningen av artiklar.
  * Tänk på att påståenden inte bara finns i text, utan också i illustrationer. Även en koroplet-karta är en utsaga!
 
 
 ## Öppenhet
 
+_vad?_<br/>
 Ett öppet Github-repo är i sig ingen garant för att någon kommer att gå in och granska vår data. Fundera i varje projekt på vad vi kan bjuda kollegor och andra intresserade på, som hjälper oss att få fler ögon på datan. Har vi tagit fram något unikt, som andra är intresserade av? Bjussa på det!
 
 _varför?_<br>
 Med öppenhet upptäcker vi svagheterna tidigare
 
-_hur?_<br>
+_hur?_
  * Öppet Github-repo, så ofta det går
  * ...med en README-fil som dokumenterar
  * Identifiera något i projektet som andra kan ha nytta av, och dela det, i första hand via Google Sheets
