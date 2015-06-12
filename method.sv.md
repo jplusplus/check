@@ -34,7 +34,7 @@ _hur?_
 ## Inledande datakoll
 
 _vad?_<br/>
-När projektet inleds, och när ny data hämtas in, ska det finnas tid avsatt att kontrollera datavaliteten.
+När projektet inleds, och när ny data hämtas in, ska det finnas tid avsatt att kontrollera datakvaliteten.
 
 _varför?_<br>
 Med en inledande datakoll kan upptäcka export- och importfel, och fel som begåtts av avsändaren
@@ -81,6 +81,9 @@ _hur?_
 
 
 ## Line-by-line för artiklar
+
+_vad?_<br/>
+Artikeltexter faktagranskas påstående för påstående.
 
 _hur?_
  * Den som inte själv varit aktiv i research leder line-by-line-läsningen av artiklar.
