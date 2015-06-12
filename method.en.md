@@ -24,7 +24,7 @@ With a dissertation we will find weak links before publishing
 _how?_<br>
 The opponent shall:
  * Question all definitions
- * Check against [the data repository](#dataregister) that all data seem to be used in the right place and ways
+ * Check against [the data repository](#central-data-repository) that all data seem to be used in the right place and ways
  * Question calculations
  * Assess the conclusions
  * Make _several_ spot-checks
