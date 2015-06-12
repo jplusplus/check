@@ -37,7 +37,7 @@ _vad?_<br/>
 När projektet inleds, och när ny data hämtas in, ska det finnas tid avsatt att kontrollera datakvaliteten.
 
 _varför?_<br>
-Med en inledande datakoll kan upptäcka export- och importfel, och fel som begåtts av avsändaren
+Med en inledande datakoll kan vi upptäcka export- och importfel, och fel som begåtts av avsändaren
 
 _hur?_
  * Pivotera på nyckelkolumner för att se att där inte finns olika stavningar av samma namn.
