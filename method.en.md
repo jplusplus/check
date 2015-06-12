@@ -106,5 +106,6 @@ _how?_<br>
 
 
 ## Inspiration
-*[A Guide to Bulletproofing Your Data, Jennifer LaFleur, ProPublica](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
-*[Sixteen solutions for data-driven projects](https://docs.google.com/presentation/d/18KE-VO9T6V1I_aGyekdDtFhYP4K0Saph7aBuBS3N8tc/edit#slide=id.ga85f0df1a_049)
+
+ * [A Guide to Bulletproofing Your Data, Jennifer LaFleur, ProPublica](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
+ * [Sixteen solutions for data-driven projects](https://docs.google.com/presentation/d/18KE-VO9T6V1I_aGyekdDtFhYP4K0Saph7aBuBS3N8tc/edit#slide=id.ga85f0df1a_049)
