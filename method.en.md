@@ -59,7 +59,7 @@ Versioning makes it easier to spot “secondary errors” introduced by these er
 
 _how?_
  * Try to make all data processing in code
- * If you need to process code in a spreadsheet application or similar, save each new version under a new name. Put each set of versioned files in one folder, named after the original data file, and use the following naming pattern: `YYMMDDxx - changes`. E.g.: `map-of-sweden/15060401 - added postal code areas.shp`.
+ * If you need to process data in a spreadsheet application or similar, save each new version under a new name. Put each set of versioned files in one folder, named after the original data file, and use the following naming pattern: `YYMMDDxx - changes`. E.g.: `map-of-sweden/15060401 - added postal code areas.shp`.
  * Or even better: Use Git for versioning.
  * When collaborating with other people, synchronize a Dropbox folder or a Google Docs document with Github.
 
