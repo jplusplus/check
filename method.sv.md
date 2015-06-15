@@ -17,7 +17,7 @@ Opponenten ska:
  * Fråga hur uträkningar gjorts
  * Bedöma om slutsatserna är rimliga
  * Göra _flera_ stickprov
- * Göra en formmässig korrläsning: sifferformat, enheter, skalor etc
+ * Göra en formmässig korrläsning: sifferformat, enheter, skalor etc.
 
 
 ## <span id="dataregister">Centralt register med ursprungsdata</span>
@@ -31,8 +31,8 @@ Med ett centralt dataregister undviker vi att data om- och feldefinieras på vä
 _Hur?_
  * All originaldata samlas (och skrivskyddas) i en mapp
  * Där ska också finnas en textfil med källförteckning
- * Notera gärna antalet rader (eller relationer, eller motsvarande beroende på datatyp) för varje dataset i textfilen, för att kunna dubbelkolla att ingen data trunkerats under projektets gång.
- * Alla nya datakällor som tillkommer ska föras in här.
+ * Notera gärna antalet rader (eller relationer, eller motsvarande beroende på datatyp) för varje dataset i textfilen, för att kunna dubbelkolla att ingen data trunkerats under projektets gång
+ * Alla nya datakällor som tillkommer ska föras in här
 
 
 ## Inledande datakoll
@@ -49,7 +49,7 @@ _Hur?_
  * Kontrollera nollvärden. Ska det vara 0, eller är det tomma rutor som blivit kodade som nollor på vägen?
  * Kontrollera tomma rutor. Ska de vara tomma?
  * Är värdena rimliga?
- * Visualisera, för att få syn på märkliga mönster, extremt avvikande punkter, etc.
+ * Visualisera, för att få syn på märkliga mönster, extremt avvikande punkter etc.
 
 
 ## Versionshantering
@@ -77,7 +77,7 @@ Enhetliga filformat minskar risken för att fel införs i samband med konverteri
 
 _Hur?_
  * CSV-filer för tabeller (kommaseparerade kolumner, citattecken som strängcontainer)
- * XLSX-filer for tabeller med formler
+ * XLSX-filer för tabeller med formler
  * JSON för hierarkisk data
  * Shapefiler för geodata
  * ...och alltid UTF-8
