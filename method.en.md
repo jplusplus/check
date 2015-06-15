@@ -18,7 +18,7 @@ _how?_
 ## Dissertation
 
 _what?_<br/>
-One person in the office SHOULD be kept out the research process. That person will be our “opponent”. The opponent will call for a internal dissertation towards the end of the project.
+One person in the office SHOULD be kept out the research process. That person will be our “opponent”. The opponent will call for an internal dissertation towards the end of the project.
 
 _why?_<br>
 With a dissertation we will find weak links before publishing
