@@ -1,7 +1,9 @@
+This document outlines the fact checking methods used by Journalism++ Stockholm. Inspiration has been drawn from  Jennifer LaFleur's [A Guide to Bulletproofing Your Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) and Chris Groskopf's [Sixteen solutions for data-driven projects](https://docs.google.com/presentation/d/18KE-VO9T6V1I_aGyekdDtFhYP4K0Saph7aBuBS3N8tc/edit#slide=id.ga85f0df1a_049). Capitalized words like MUST and SHOULD shall be interpreted according to [RFC2119](https://www.ietf.org/rfc/rfc2119.txt)
+
 ## <span id="dataregister">Central data repository</span>
 
 _what?_<br/>
-At the start of each project, all original data shall be collected in one place, together with a source note.
+At the start of each project, all original data SHOULD be collected in one place, together with a source note.
 
 _why?_<br>
 A central data repository reduces the risk of data being redefined along the way.
@@ -16,7 +18,7 @@ _how?_
 ## Dissertation
 
 _what?_<br/>
-One person in the office should be kept out the research process. That person will be our “opponent”. The opponent will call for a internal dissertation towards the end of the project.
+One person in the office SHOULD be kept out the research process. That person will be our “opponent”. The opponent will call for a internal dissertation towards the end of the project.
 
 _why?_<br>
 With a dissertation we will find weak links before publishing
@@ -34,7 +36,7 @@ The opponent shall:
 ## Initial data sanity check
 
 _what?_<br/>
-At the start of the project, and whenever new data is introduced, there shall be time allocated for doing a sanity check.
+At the start of the project, and whenever new data is introduced, time MUST be allocated for doing a sanity check.
 
 _why?_<br>
 An initial sanity check lets us detect exporting/importing errors, and error committed by our sources.
@@ -51,7 +53,7 @@ _how?_
 ## Versioning
 
 _what?_<br/>
-To track errors, we need to be able go back to all earlier versions and editors of all files.
+To track errors, we need to be able go back to all earlier versions and editors of all files. One of the methods mentioned below SHOULD be used.
 
 _why?_<br>
 Versioning makes it easier to detect errors.<br>
@@ -67,7 +69,7 @@ _how?_
 ## Standard formats for file based data
 
 _what?_<br/>
-File based data should use one of our standard formats for data.
+File based data SHOULD use one of our standard formats for data.
 
 _why?_<br>
 Coherent file formats reduces the risk of conversion errors and truncations.
@@ -83,7 +85,7 @@ _how?_
 ## Line-by-line reading
 
 _what?_<br/>
-Articles should be line-by-line fact checked.
+Articles SHOULD be line-by-line fact checked.
 
 _how?_<br>
  * The non-involved opponent will be in charge of line-by-line reading, when relevant
@@ -93,7 +95,7 @@ _how?_<br>
 ## Openness
 
 _what?_<br/>
-An open Github repo is not by itself a guarantee that someone will look at your code or data. For each project, try to offer something to value to the community. In return, we might get more eyes on our data.
+An open Github repo is not by itself a guarantee that someone will look at your code or data. For each project, we MAY try to offer something to value to the community. In return, we might get more eyes on our data.
 
 _why?_<br>
 Openness helps us detect errors and weaknesses earlier.
