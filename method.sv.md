@@ -1,4 +1,6 @@
-Det här är Journalism++ guide till faktagranskning i datadrivna projekt. Den har kommit till genom inspiration av bland annat Jennifer LaFleurs  [A Guide to Bulletproofing Your Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) och Chris Groskopfs [Sixteen solutions for data-driven projects](https://docs.google.com/presentation/d/18KE-VO9T6V1I_aGyekdDtFhYP4K0Saph7aBuBS3N8tc/edit#slide=id.ga85f0df1a_049).
+Det här är Journalism++ metod för faktagranskning i datadrivna projekt. Den har kommit till genom inspiration av bland annat Jennifer LaFleurs [A Guide to Bulletproofing Your Data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) och Chris Groskopfs [Sixteen solutions for data-driven projects](https://docs.google.com/presentation/d/18KE-VO9T6V1I_aGyekdDtFhYP4K0Saph7aBuBS3N8tc/edit#slide=id.ga85f0df1a_049).
+
+Den [engelska versionen](method.en.md) av det här dokumentet följer [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt), så att det är tydligt vilka delar av metoden som alltid behöver följas, vilka som kan frångås.
 
 ## Disputation
 
