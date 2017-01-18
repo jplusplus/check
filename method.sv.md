@@ -12,6 +12,7 @@ Med en disputation upptäcker vi fler svagheter själva.
 
 _Hur?_<br>
 Opponenten ska:
+ * Följa flödet från data till analys, steg för steg-
  * Ifrågasätta definitioner
  * Kontrollera mot [dataregistret](#dataregister) att rätt data används till rätt sak
  * Fråga hur uträkningar gjorts
@@ -45,9 +46,11 @@ Med en inledande datakoll kan vi upptäcka export- och importfel, och fel som be
 
 _Hur?_
  * Pivotera på nyckelkolumner för att se att där inte finns olika stavningar av samma namn.
- * Kontrollera att alla [kommuner/länder/personer/sjukdomar/etc] finns med. 
+ * Kontrollera att alla [kommuner/länder/personer/sjukdomar/etc] finns med.
  * Kontrollera nollvärden. Ska det vara 0, eller är det tomma rutor som blivit kodade som nollor på vägen?
  * Kontrollera tomma rutor. Ska de vara tomma?
+ * Är radantalet rimligt? Se upp för radantal som 5 000 eller 32 768 vid
+ databasuttag.
  * Är värdena rimliga?
  * Visualisera, för att få syn på märkliga mönster, extremt avvikande punkter etc.
 
