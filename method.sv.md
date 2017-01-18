@@ -65,7 +65,7 @@ Med versionshantering blir det enklare att upptäcka fel och spåra följdeffekt
 
 _Hur?_
  * Sträva efter att göra all databearbetning i kod.
- * Om databearbetning görs i kalkylprogram eller liknande, spara varje ny version under ett nytt namn. Varje datafil får en egen mapp, som döps efter originaldatafilen. Versionsfilerna namnges sedan enligt konventionen `YYMMDDxx - ändringsbeskrivning` där `xx` är ett löpnummer om man gör flera ändringar under samma dag. Till exempel: `sverigekarta/15060401 - Lade till postnummergränser.shp`
+ * Om databearbetning görs i kalkylprogram eller liknande, spara varje ny version under ett nytt namn. Varje datafil får en egen mapp, som döps efter originaldatafilen. Versionsfilerna namnges sedan enligt konventionen `YYMMDDxx - ändringsbeskrivning` där `xx` är ett löpnummer om man gör flera ändringar under samma dag. Till exempel:  `sverigekarta/2015060401 - Lade till postnummergränser.shp`
  * Men ännu hellre versionshanterar vi med Git.
  * När vi samarbetar med andra, kan vi arbeta med en Dropbox-mapp, synkad till Github, eller testa någon av alla lösningar för att synka Google Docs med Github.
 
